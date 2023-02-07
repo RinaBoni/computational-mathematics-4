@@ -1,0 +1,10 @@
+﻿  lab1.cpp
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(34,47): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(40,35): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(52,26): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(58,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(64,27): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(70,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(93,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(23): error C4700: использована неинициализированная локальная переменная "i"
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab1\lab1.cpp(24): error C4700: использована неинициализированная локальная переменная "j"
