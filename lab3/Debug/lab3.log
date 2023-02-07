@@ -1,0 +1,17 @@
+﻿  lab3.cpp
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(6,46): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(7,67): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(87,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(97,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(99,27): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(128,37): error C2676: бинарный "*": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              _Ty=std::vector<float,std::allocator<float>>
+          ]
+C:\Users\User\Documents\учеба\4 семестр\вычмат\lab3\lab3.cpp(146,33): error C2676: бинарный "*": "_Ty" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              _Ty=std::vector<float,std::allocator<float>>
+          ]
